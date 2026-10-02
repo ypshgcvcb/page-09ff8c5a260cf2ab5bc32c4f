@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-2adb285c06.nkwprqq.cn/sitemap.xml
